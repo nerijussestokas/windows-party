@@ -1,0 +1,12 @@
+D:\Projects\uzduotys\windows-party\Party\API\obj\Debug\API.csprojAssemblyReference.cache
+D:\Projects\uzduotys\windows-party\Party\API\obj\Debug\API.csproj.CoreCompileInputs.cache
+D:\Projects\uzduotys\windows-party\Party\API\bin\Debug\API.exe.config
+D:\Projects\uzduotys\windows-party\Party\API\bin\Debug\API.exe
+D:\Projects\uzduotys\windows-party\Party\API\bin\Debug\API.pdb
+D:\Projects\uzduotys\windows-party\Party\API\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\uzduotys\windows-party\Party\API\bin\Debug\System.Net.Http.Formatting.dll
+D:\Projects\uzduotys\windows-party\Party\API\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\uzduotys\windows-party\Party\API\bin\Debug\System.Net.Http.Formatting.xml
+D:\Projects\uzduotys\windows-party\Party\API\obj\Debug\API.csproj.CopyComplete
+D:\Projects\uzduotys\windows-party\Party\API\obj\Debug\API.exe
+D:\Projects\uzduotys\windows-party\Party\API\obj\Debug\API.pdb
